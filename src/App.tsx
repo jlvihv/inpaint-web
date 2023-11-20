@@ -67,7 +67,7 @@ function App() {
 
             <div className="flex flex-col sm:flex-row pt-10 items-center justify-center cursor-pointer">
               <span className="text-gray-500">
-                试一试:
+                试一试：
                 <br />
                 Try it:
               </span>
